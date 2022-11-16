@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/oma16/meta.git/static/css/main.073c9b0a.css",
+    "main.js": "/oma16/meta.git/static/js/main.a8adf1ce.js",
+    "static/js/787.b72bc5b4.chunk.js": "/oma16/meta.git/static/js/787.b72bc5b4.chunk.js",
+    "static/media/Group.svg": "/oma16/meta.git/static/media/Group.69a97a8cf7498387c85734f13405b3b3.svg",
+    "index.html": "/oma16/meta.git/index.html",
+    "static/media/Vector.svg": "/oma16/meta.git/static/media/Vector.965360f773e9fdc9cc49d66d6ee92ffd.svg",
+    "main.073c9b0a.css.map": "/oma16/meta.git/static/css/main.073c9b0a.css.map",
+    "main.a8adf1ce.js.map": "/oma16/meta.git/static/js/main.a8adf1ce.js.map",
+    "787.b72bc5b4.chunk.js.map": "/oma16/meta.git/static/js/787.b72bc5b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a8adf1ce.js"
+  ]
+}
